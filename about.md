@@ -5,15 +5,4 @@ permalink: /about/
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[![alt text](https://www.gravatar.com/avatar/… "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
