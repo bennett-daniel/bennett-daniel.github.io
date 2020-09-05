@@ -28,6 +28,7 @@ twitter_username: danielbbennett
 github_username:  danielbrianbennett
 
 # Build settings
+theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 
 # Exclude from processing.
