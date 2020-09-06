@@ -39,6 +39,9 @@ last_edit_time_format: "%b %e %Y" # uses ruby's time format: https://ruby-doc.or
 # Custom colour scheme
 color_scheme: dan_scheme
 
+# Disable the site search
+search_enabled: false
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
