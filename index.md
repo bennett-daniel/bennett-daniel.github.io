@@ -3,6 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
+nav_exclude: true
 ---
 
-This is the landing page.
+{: .fs-6 .fw-300 }
+
+<div align="center" style="font-size:2vw"> This is the new updated landing page. </div>
