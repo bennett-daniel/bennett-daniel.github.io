@@ -8,7 +8,7 @@ nav_exclude: true
   Daniel Bennett
 </div>
 
-![headshot](/assets/img/headshot.jpg){: style="float: right; margin-right: 1em; margin-left: 2em; width:230px; border: 3px solid #111;"}
+![headshot](/assets/img/headshot.jpg){: style="float: right; margin-right: 1em; margin-left: 2em; width:230px; border: 2px solid #222;"}
 
 I'm a cognitive and affective scientist. I study mood, learning, and decision making, with a particular interest in how these processes go awry in psychiatric conditions like major depression and bipolar disorder.
 
