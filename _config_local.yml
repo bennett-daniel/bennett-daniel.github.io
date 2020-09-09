@@ -40,7 +40,7 @@ last_edit_time_format: "%b %e %Y" # uses ruby's time format: https://ruby-doc.or
 color_scheme: dan_scheme
 
 # Disable the site search
-search_enabled: false
+search_enabled: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
