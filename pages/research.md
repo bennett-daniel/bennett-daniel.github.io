@@ -25,7 +25,7 @@ In my empirical experimental work, I'm very interested in the question of how hu
 Representative publication:
 - Bennett, D., & Niv, Y. (2020). Opening Burton's clock: Psychiatric insights from computational cognitive models. Chapter in *The Cognitive Neurosciences* (6th edition; M. Gazzaniga, ed.). [[pdf]](https://psyarxiv.com/y2vzu/)
 
-## Information-seeking
+## Information-seeking behaviour
 
 In my PhD, I studied the psychological processes underlying information seeking under uncertainty. This question is related to the problem of reconnaissance: is it better for an individual to act on the basis of present beliefs, or incur a cost to acquire additional information which may aid their decision?
 
