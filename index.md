@@ -8,7 +8,7 @@ nav_exclude: true
 ---
 
 
-<div align="center" style="font-size:1.5vw">
+<div align="center" style="font-size:2vw">
   Daniel Bennett
 </div>
 
