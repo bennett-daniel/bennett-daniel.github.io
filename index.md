@@ -8,16 +8,25 @@ nav_exclude: true
 ---
 
 
-<div align="center" style="font-size:2vw"> This is the new updated landing page. </div>
+<div align="center" style="font-size:1.5vw">
+  Daniel Bennett
+</div>
 
+![headshot](/assets/img/headshot.jpg){: style="float: right; margin-right: 1em; margin-left: 2em; width:250px; border: 3px solid #111;"}
 
-## Profiles
+I'm a cognitive and affective scientist. I study mood, learning, and decision making, with a particular interest in how these processes go awry in psychiatric conditions like major depression and bipolar disorder.
+
+I am currently a Research Fellow in the Department of Psychiatry at Monash Univeristy. Previously, I did a postdoc with [Yael Niv](https://nivlab.princeton.edu/) at Princeton University, and before that I completed a PhD at the University of Melbourne under the supervision of [Stefan Bode](https://findanexpert.unimelb.edu.au/profile/287239-stefan-bode) and [Carsten Murawski](http://bmmlab.webfactional.com/team/carsten/).
+
+<br/>
+
+### My profiles
 
 {: .pt-2}
-<img src="/images/github.png" width="20" height="20" /> [GitHub](https://github.com/danielbrianbennett/)
+<img src="/assets/img/github.png" width="18" height="18" /> [GitHub](https://github.com/danielbrianbennett/)
 
-<img src="/images/google-scholar.png" width="20" height="20" /> [Google Scholar](https://scholar.google.com/citations?user=r9OPOJEAAAAJ&hl=en)
+<img src="/assets/img/google-scholar.png" width="18" height="18" /> [Google Scholar](https://scholar.google.com/citations?user=r9OPOJEAAAAJ&hl=en)
 
-<img src="/images/osf.png" width="20" height="20" /> [Open Science Framework](https://osf.io/8jtxy/)
+<img src="/assets/img/osf.png" width="18" height="18" /> [Open Science Framework](https://osf.io/8jtxy/)
 
-<img src="/images/twitter.png" width="20" height="20" /> [Twitter](https://twitter.com/danielbbennett)
+<img src="/assets/img/twitter.png" width="18" height="18" /> [Twitter](https://twitter.com/danielbbennett)

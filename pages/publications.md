@@ -36,15 +36,15 @@ _2019_
 
 4\.**Bennett, D.**, Silverstein, S., & Niv, Y. (2019). The two cultures of computational psychiatry. _JAMA Psychiatry, 76_(6), 563-564.
 
-[[pdf]](/assets/2019_jamapsychiatry.pdf)
+[[pdf]](/assets/pdf/2019_jamapsychiatry.pdf)
 
 5\. **Bennett, D**<sup>+</sup>., Sasmita, K<sup>+</sup>., Maloney, R. T., Murawski, C., & Bode, S. (2019). Monetary feedback modulates performance and electrophysiological indices of belief updating in reward learning. _Psychophysiology, 56_(10), e13431. <sup>+</sup>These authors contributed equally.
 
-[[pdf]](/assets/2019_psychophysiology.pdf)
+[[pdf]](/assets/pdf/2019_psychophysiology.pdf)
 
 6\. Bode, S., Feuerriegel, D., **Bennett, D**., & Alday, P. M. (2019). The Decision Decoding ToolBOX (DDTBOX): A multivariate pattern analysis toolbox for event-related potentials. _Neuroinformatics, 17_(1), 27-42.
 
-[[pdf]](/assets/2019_neuroinformatics.pdf) [[GitHub]](https://github.com/DDTBOX/DDTBOX)
+[[pdf]](/assets/pdf/2019_neuroinformatics.pdf) [[GitHub]](https://github.com/DDTBOX/DDTBOX)
 
 {: .fs-6 .fw-300 .pt-2}
 _2018_
@@ -55,58 +55,58 @@ _2018_
 
 8\. **Bennett, D**, Yücel, M., & Murawski, C. (2018). Errors of statistical inference in the Information Sampling Task. _Biological Psychiatry, 83_(12), e61-e62.
 
-[[pdf]](/assets/2018_jamapsychiatry_reply.pdf)
+[[pdf]](/assets/pdf/2018_jamapsychiatry_reply.pdf)
 
 9\. Sewell, D., Warren, H. A., Rosenblatt, D., **Bennett, D.**, Lyons, M., & Bode, S. (2018). Feedback discounting in probabilistic categorization: converging evidence from EEG and cognitive modelling. _Computational Brain and Behavior, 1_(2), 165-183.
 
-[[pdf]](/assets/2018_cbb.pdf)
+[[pdf]](/assets/pdf/2018_cbb.pdf)
 
 10\. Bode, S., **Bennett, D.**, Sewell, D, K., Paton, B., Egan, G. F., Smith, P. L., & Murawski, C. (2018). Dissociating neural variability related to stimulus quality and response times in perceptual decision-making. _Neuropsychologia, 111_, 190-200.
 
-[[pdf]](/assets/2018_neuropsychologia.pdf)
+[[pdf]](/assets/pdf/2018_neuropsychologia.pdf)
 
 {: .fs-6 .fw-300 .pt-2}
 _2017_
 
 11\. **Bennett, D.**, Oldham, S., Dawson, A., Parkes, L., Murawski, C., & Yücel, M. (2017). Systematic overestimation of reflection impulsivity in the Information Sampling Task. _Biological Psychiatry, 84_(2), e29-e30.
 
-[[pdf]](/assets/2017_jamapsychiatry.pdf)
+[[pdf]](/assets/pdf/2017_jamapsychiatry.pdf)
 
 12\. Carter, O., **Bennett, D.**, Nash, T., Arnold, S., Brown, L., Cai, R.Y., Allan, Z., Dluzniak, A., McAnally, K., Burr, D., & Sundram, S. (2017). Sensory integration deficits support a dimensional view of psychosis and are not limited to schizophrenia. _Translational Psychiatry, 7_, e1118.
 
-[[pdf]](/assets/2017_translationalpsychiatry.pdf)
+[[pdf]](/assets/pdf/2017_translationalpsychiatry.pdf)
 
 {: .fs-6 .fw-300 .pt-2}
 _2016_
 
 13\. **Bennett, D.**, Bode, S., Brydevall, M., Warren, H., & Murawski, C. (2016). Intrinsic valuation of information in decision making under uncertainty. _PLOS Computational Biology, 12_(7), e1005020.
 
-[[pdf]](/assets/2016_ploscb.pdf)
+[[pdf]](/assets/pdf/2016_ploscb.pdf)
 
 14\. **Bennett, D.**, Dluzniak, A., Cropper, S., Partos, T., Sundram, S., & Carter, O. (2016). Selective impairment of global motion integration, but not global form integration, in schizophrenia and bipolar affective disorder. _Schizophrenia Research: Cognition, 3_, 11-14.
 
-[[pdf]](/assets/2016_szrescog.pdf)
+[[pdf]](/assets/pdf/2016_szrescog.pdf)
 
 {: .fs-6 .fw-300 .pt-2}
 _2015 and earlier_
 
 15\. **Bennett, D.** (2015). The neural mechanisms of Bayesian belief updating. _The Journal of Neuroscience, 35_(50), 16300-16302 .
 
-[[pdf]](/assets/2015_jneuro.pdf)
+[[pdf]](/assets/pdf/2015_jneuro.pdf)
 
 16\. **Bennett, D.**, Murawski, C., & Bode, S. (2015). Single-trial event-related potential correlates of belief updating. _eNeuro, 2_(5), 1-14.
 
-[[pdf]](/assets/2015_eneuro.pdf)
+[[pdf]](/assets/pdf/2015_eneuro.pdf)
 
 17\. Bode, S., **Bennett, D.**, Stahl, J., & Murawski, C. (2014). Distributed patterns of event-related potentials predict subsequent ratings of abstract stimulus attributes. _PLOS One, 9_(10), e109070.
 
-[[pdf]](/assets/2014_plosone.pdf)
+[[pdf]](/assets/pdf/2014_plosone.pdf)
 
 ## Extended abstracts in peer-reviewed conference proceedings
 
 18\. **Bennett, D**., Davidson, G., & Niv, Y. (2019). Momentum and mood in policy-gradient reinforcement learning. _Proceedings of the 4th Multidisciplinary Conference on Reinforcement Learning and Decision Making_.
 
-[[pdf]](/assets/2019_rldm.pdf)
+[[pdf]](/assets/pdf/2019_rldm.pdf)
 
 19\. **Bennett, D**., Feuerriegel, D., Alday, P. M., & Bode, S. (2017). The Decision Decoding ToolBOX (DDTBOX): A multivariate pattern analysis toolbox for event-related potentials. _Proceedings of the Conference on Cognitive Computational Neuroscience 2017_.
 

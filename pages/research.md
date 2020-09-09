@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About me
+title: My research
 nav_order: 1
-permalink: /pages/about/
+permalink: /pages/research/
 last_modified_date: 2020-09-06T00:00:00+0000
 ---
 
