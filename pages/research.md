@@ -20,7 +20,7 @@ Representative publication:
 
 ## Mood, attention, and reinforcement learning
 
-In my empirical experiental work, I'm very interested in the question of how human mood states interact with cognitive processes like attention, learning, and decision making and decision making. For instance, how does being in a bad mood change the way we learn about the world around us? Does being in a good mood make us more likely to engage in risky behaviour? Do effects of this kind differ across people in a way that might explain why some people are prone to mood disorders?
+In my empirical experiental work, I'm very interested in the question of how human mood states interact with cognitive processes like attention, learning, and decision making. For instance, how does being in a bad mood change the way we learn about the world around us? Does being in a good mood make us more likely to engage in risky behaviour? Do effects of this kind differ across people in a way that might explain why some people are prone to mood disorders?
 
 Representative publication:
 - Bennett, D., & Niv, Y. (2020). Opening Burton's clock: Psychiatric insights from computational cognitive models. Chapter in *The Cognitive Neurosciences* (6th edition; M. Gazzaniga, ed.). [[pdf]](https://psyarxiv.com/y2vzu/)
