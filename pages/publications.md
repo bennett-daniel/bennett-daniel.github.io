@@ -68,7 +68,7 @@ _2018_
 {: .fs-6 .fw-300 .pt-2}
 _2017_
 
-11\. **Bennett, D.**, Oldham, S., Dawson, A., Parkes, L., Murawski, C., & Yücel, M. (2017). Systematic overestimation of reflection impulsivity in the Information Sampling Task. _Biological Psychiatry, 84_(2), e29-e30.
+11\. **Bennett, D.**, Oldham, S., Dawson, A., Parkes, L., Murawski, C., & Yücel, M. (2017). Systematic overestimation of reflection impulsivity in the Information Sampling Task. _Biological Psychiatry, 82_(4), e29-e30.
 
 [[pdf]](/assets/pdf/2017_jamapsychiatry.pdf)
 
