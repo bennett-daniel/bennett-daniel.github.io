@@ -21,12 +21,12 @@ See the links in the sidebar for more information.
 ## My profiles
 
 {: .pt-4}
-<img src="/assets/img/github.png" width="20" height="20" style="margin-left: 1em; margin-right: 1em;"/> [E-mail](mailto:daniel.bennett@princeton.edu)
-
-<img src="/assets/img/mail.png" width="20" height="20" style="margin-left: 1em; margin-right: 1em;"/> [GitHub](https://github.com/danielbrianbennett/)
+<img src="/assets/img/github.png" width="20" height="20" style="margin-left: 1em; margin-right: 1em;"/> [GitHub](https://github.com/danielbrianbennett/)
 
 <img src="/assets/img/google-scholar.png" width="20" height="20" style="margin-left: 1em; margin-right: 1em;"/> [Google Scholar](https://scholar.google.com/citations?user=r9OPOJEAAAAJ&hl=en)
 
 <img src="/assets/img/osf.png" width="20" height="20" style="margin-left: 1em; margin-right: 1em;"/> [Open Science Framework](https://osf.io/8jtxy/)
 
 <img src="/assets/img/twitter.png" width="20" height="20" style="margin-left: 1em; margin-right: 1em;"/> [Twitter](https://twitter.com/danielbbennett)
+
+<img src="/assets/img/mail.png" width="20" height="20" style="margin-left: 1em; margin-right: 1em;"/> [E-mail me](mailto:daniel.bennett@princeton.edu)
