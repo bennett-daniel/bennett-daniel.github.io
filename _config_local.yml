@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Daniel Bennett
-email: daniel.bennett@monash.edu
+email: daniel.bennett@princeton.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Academic website for Daniel Bennett
 baseurl: "" # the subpath of your site, e.g. /blog
