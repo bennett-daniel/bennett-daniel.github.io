@@ -3,7 +3,7 @@ layout: page
 title: My Research
 nav_order: 1
 permalink: /pages/research/
-last_modified_date: 2020-09-09T00:00:00+0000
+last_modified_date: 2020-01-04T00:00:00+0000
 ---
 
 # My research
@@ -12,7 +12,7 @@ In my research, I use experimental and computational methods to understand the p
 
 ## Theoretical models of mood
 
-One primary thread of my postdoctoral work with Yael Niv at Princeton University is to build computational models of human mood. In this theoretical work, we focused on how working with concepts from reinforcement learning might help us to build a computational theory of human mood.
+One primary thread of my postdoctoral work with Yael Niv at Princeton University was to build computational models of human mood. In this theoretical work, we focused on how working with concepts from reinforcement learning might help us to build a computational theory of human mood.
 
 Representative publication:
 - Bennett, D., Davidson, G., & Niv, Y. (under review). A model of mood as integrated advantage. Preprint hosted at _PsyArXiv_. [[pdf]](https://psyarxiv.com/dzsme/)

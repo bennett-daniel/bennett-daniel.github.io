@@ -2,7 +2,7 @@
 layout: home
 title: Home
 nav_exclude: true
-last_modified_date: 2020-09-09T00:00:00+0000
+last_modified_date: 2020-01-05T00:00:00+0000
 ---
 
 <div align="center" style="font-size:2vw">
@@ -13,7 +13,7 @@ last_modified_date: 2020-09-09T00:00:00+0000
 
 I'm a cognitive and affective scientist. I study mood, learning, and decision making, with a particular interest in how these processes go awry in psychiatric conditions like major depression and bipolar disorder.
 
-I am currently a postdoctoral researcher with [Yael Niv](https://nivlab.princeton.edu/) at Princeton University, and before that I completed a PhD at the University of Melbourne under the supervision of [Stefan Bode](https://findanexpert.unimelb.edu.au/profile/287239-stefan-bode) and [Carsten Murawski](http://bmmlab.webfactional.com/team/carsten/).
+I am currently a Research Fellow in the Department of Psychiatry at Monash University. Previously I was a postdoctoral researcher with [Yael Niv](https://nivlab.princeton.edu/) at Princeton University, and before that I completed a PhD at the University of Melbourne under the supervision of [Stefan Bode](https://findanexpert.unimelb.edu.au/profile/287239-stefan-bode) and [Carsten Murawski](http://bmmlab.webfactional.com/team/carsten/).
 
 See the links in the sidebar for more information.
 
@@ -29,4 +29,4 @@ See the links in the sidebar for more information.
 
 <img src="/assets/img/twitter.png" width="20" height="20" style="margin-left: 1em; margin-right: 1em;"/> [Twitter](https://twitter.com/danielbbennett)
 
-<img src="/assets/img/mail.png" width="20" height="20" style="margin-left: 1em; margin-right: 1em;"/> [E-mail me](mailto:daniel.bennett@princeton.edu)
+<img src="/assets/img/mail.png" width="20" height="20" style="margin-left: 1em; margin-right: 1em;"/> [E-mail me](mailto:daniel.bennett@monash.edu)

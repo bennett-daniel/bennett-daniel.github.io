@@ -3,7 +3,7 @@ layout: page
 title: Publications
 nav_order: 3
 permalink: /pages/publications/
-last_modified_date: 2020-10-21T00:00:00+0000
+last_modified_date: 2020-01-05T00:00:00+0000
 ---
 
 # List of publications
@@ -17,19 +17,19 @@ last_modified_date: 2020-10-21T00:00:00+0000
 
 2\. Smillie, L. D., **Bennett, D**., Tan, N. P., Sutcliffe, K., Fayn, K., Bode, S., & Wacker, J. (under review). Does openness/intellect predict sensitivity to the reward value of information?. Manuscript submitted for review.
 
-3\. Zorowitz, S., **Bennett, D**., & Niv, Y. (under review). A recurring reproduction error in the administration of the Generalized Anxiety Disorder scale. Manuscript submitted for review.
-
 ## Book chapters
 
 {: .pt-4}
-4\. **Bennett, D.**, & Niv, Y. (2020). Opening Burton's clock: Psychiatric insights from computational cognitive models. Chapter in *The Cognitive Neurosciences* (6th edition; M. Gazzaniga, ed.).
+3\. **Bennett, D.**, & Niv, Y. (2020). Opening Burton's clock: Psychiatric insights from computational cognitive models. Chapter in *The Cognitive Neurosciences* (6th edition; M. Gazzaniga, ed.).
 
 [[pdf]](https://psyarxiv.com/y2vzu/)
 
 ## Peer-reviewed journal papers
 
 {: .fs-6 .fw-300 .pt-4}
+
 _2020 and in press_
+4\. Zorowitz, S., **Bennett, D**., & Niv, Y. (in press). A recurring reproduction error in the administration of the Generalized Anxiety Disorder scale. Letter accepted at _The Lancet Psychiatry_.
 
 5\. **Bennett, D.**, Sutcliffe, K., Tan, N. P., Smillie, L. D., & Bode, S. (in press). Anxious and obsessive-compulsive traits are independently associated with valuation of non-instrumental information. Manuscript accepted at _Journal of Experimental Psychology: General_.
 
