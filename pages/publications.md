@@ -19,8 +19,7 @@ last_modified_date: 2020-01-05T00:00:00+0000
 
 ## Peer-reviewed journal papers and book chapters
 
-{: .fs-6 .fw-300 .pt-4}
-
+{: .fs-6 .fw-300 .pt-2}
 _in press_
 
 3\. Zorowitz, S., **Bennett, D**., Choe, G., & Niv, Y. (in press). A recurring reproduction error in the administration of the Generalized Anxiety Disorder scale. Letter accepted at _The Lancet Psychiatry_.
@@ -29,12 +28,14 @@ _in press_
 
 [[pdf]](https://www.biorxiv.org/content/biorxiv/early/2020/05/04/768168.full.pdf) [[OSF project]](https://osf.io/eg74d/)
 
+{: .fs-6 .fw-300 .pt-2}
 _2020_
 
 5\. **Bennett, D.**, & Niv, Y. (2020). Opening Burton's clock: Psychiatric insights from computational cognitive models. Chapter in *The Cognitive Neurosciences* (6th edition; M. Gazzaniga, ed.).
 
 [[pdf]](https://psyarxiv.com/y2vzu/)
 
+{: .fs-6 .fw-300 .pt-2}
 _2019_
 
 6\.**Bennett, D.**, Silverstein, S., & Niv, Y. (2019). The two cultures of computational psychiatry. _JAMA Psychiatry, 76_(6), 563-564.
