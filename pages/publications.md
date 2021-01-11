@@ -22,6 +22,7 @@ last_modified_date: 2020-01-05T00:00:00+0000
 {: .fs-6 .fw-300 .pt-4}
 
 _in press_
+
 3\. Zorowitz, S., **Bennett, D**., Choe, G., & Niv, Y. (in press). A recurring reproduction error in the administration of the Generalized Anxiety Disorder scale. Letter accepted at _The Lancet Psychiatry_.
 
 4\. **Bennett, D.**, Sutcliffe, K., Tan, N. P., Smillie, L. D., & Bode, S. (in press). Anxious and obsessive-compulsive traits are independently associated with valuation of non-instrumental information. Manuscript accepted at _Journal of Experimental Psychology: General_.
