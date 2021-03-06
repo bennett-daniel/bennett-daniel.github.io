@@ -3,7 +3,7 @@ layout: page
 title: Publications
 nav_order: 3
 permalink: /pages/publications/
-last_modified_date: 2020-02-24T00:00:00+0000
+last_modified_date: 2020-03-07T00:00:00+0000
 ---
 
 # List of publications
@@ -16,18 +16,18 @@ last_modified_date: 2020-02-24T00:00:00+0000
 
 [[pdf]](https://psyarxiv.com/ew58m/)
 
-2\. **Bennett, D.**, Davidson, G., & Niv, Y. (under review). A model of mood as integrated advantage. Preprint hosted at _PsyArXiv_.
-
-[[pdf]](https://psyarxiv.com/dzsme/) [[OSF project]](https://osf.io/zm57r/)
-
-3\. Smillie, L. D., **Bennett, D**., Tan, N. P., Sutcliffe, K., Fayn, K., Bode, S., & Wacker, J. (under review). Does openness/intellect predict sensitivity to the reward value of information?. Manuscript submitted for review.
+2\. Smillie, L. D., **Bennett, D**., Tan, N. P., Sutcliffe, K., Fayn, K., Bode, S., & Wacker, J. (under review). Does openness/intellect predict sensitivity to the reward value of information?. Manuscript submitted for review.
 
 ## Peer-reviewed journal papers and book chapters
 
 {: .fs-6 .fw-300 .pt-2}
 _2021 and in press_
 
-4\. Zorowitz, S., **Bennett, D**., Choe, G., & Niv, Y. (in press). A recurring reproduction error in the administration of the Generalized Anxiety Disorder scale. Letter accepted at _The Lancet Psychiatry_.
+3\. **Bennett, D.**, Davidson, G., & Niv, Y. (in press). A model of mood as integrated advantage. Manuscript accepted for publication at _Psychological Review_.
+
+[[pdf]](https://psyarxiv.com/dzsme/) [[OSF project]](https://osf.io/zm57r/)
+
+4\. Zorowitz, S., **Bennett, D**., Choe, G., & Niv, Y. (2021). A recurring reproduction error in the administration of the Generalized Anxiety Disorder scale. _The Lancet Psychiatry, 8_(3), 180-181.
 
 {: .fs-6 .fw-300 .pt-2}
 _2020_
