@@ -3,7 +3,7 @@ layout: page
 title: Publications
 nav_order: 3
 permalink: /pages/publications/
-last_modified_date: 2020-03-07T00:00:00+0000
+last_modified_date: 2020-04-06T00:00:00+0000
 ---
 
 # List of publications
@@ -16,27 +16,28 @@ last_modified_date: 2020-03-07T00:00:00+0000
 
 [[pdf]](https://psyarxiv.com/ew58m/)
 
-2\. Smillie, L. D., **Bennett, D**., Tan, N. P., Sutcliffe, K., Fayn, K., Bode, S., & Wacker, J. (under review). Does openness/intellect predict sensitivity to the reward value of information?. Manuscript submitted for review.
-
-3\. Goh, A. X.-A., **Bennett, D**., Bode, S., & Chong, T. T.-J. (under review). Neurocomputational mechanisms underlying the subjective value of information. Manuscript submitted for review.
+2\. Goh, A. X.-A., **Bennett, D**., Bode, S., & Chong, T. T.-J. (under review). Neurocomputational mechanisms underlying the subjective value of information. Manuscript submitted for review.
 
 ## Peer-reviewed journal papers and book chapters
 
 {: .fs-6 .fw-300 .pt-2}
 _2021 and in press_
 
-4\. **Bennett, D.**, Davidson, G., & Niv, Y. (in press). A model of mood as integrated advantage. Manuscript accepted for publication at _Psychological Review_.
+3\. **Bennett, D.**, Davidson, G., & Niv, Y. (in press). A model of mood as integrated advantage. Manuscript accepted for publication in _Psychological Review_.
 
 [[pdf]](https://psyarxiv.com/dzsme/) [[OSF project]](https://osf.io/zm57r/)
+
+4\. Smillie, L. D., **Bennett, D**., Tan, N. P., Sutcliffe, K., Fayn, K., Bode, S., & Wacker, J. (in press). Does openness/intellect predict sensitivity to the reward value of information?. Manuscript accepted for publication in _Cognitive, Affective, and Behavioral Neuroscience_.
 
 5\. Zorowitz, S., **Bennett, D**., Choe, G., & Niv, Y. (2021). A recurring reproduction error in the administration of the Generalized Anxiety Disorder scale. _The Lancet Psychiatry, 8_(3), 180-181.
 
 {: .fs-6 .fw-300 .pt-2}
 _2020_
 
-6\. **Bennett, D.**, Sutcliffe, K., Tan, N. P., Smillie, L. D., & Bode, S. (2020). Anxious and obsessive-compulsive traits are independently associated with valuation of non-instrumental information. Manuscript accepted at _Journal of Experimental Psychology: General_.
+6\. **Bennett, D.**, Sutcliffe, K., Tan, N. P., Smillie, L. D., & Bode, S. (2020). Anxious and obsessive-compulsive traits are independently associated with valuation of non-instrumental information. Manuscript accepted for publication in _Journal of Experimental Psychology: General_.
 
 [[pdf]](https://www.biorxiv.org/content/biorxiv/early/2020/05/04/768168.full.pdf) [[OSF project]](https://osf.io/eg74d/)
+
 7\. **Bennett, D.**, & Niv, Y. (2020). Opening Burton's clock: Psychiatric insights from computational cognitive models. Chapter in *The Cognitive Neurosciences* (6th edition; M. Gazzaniga, ed.).
 
 [[pdf]](https://psyarxiv.com/y2vzu/)
