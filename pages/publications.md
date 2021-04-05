@@ -27,7 +27,7 @@ _2021 and in press_
 
 [[pdf]](https://psyarxiv.com/dzsme/) [[OSF project]](https://osf.io/zm57r/)
 
-4\. Smillie, L. D., **Bennett, D**., Tan, N. P., Sutcliffe, K., Fayn, K., Bode, S., & Wacker, J. (in press). Does openness/intellect predict sensitivity to the reward value of information?. Manuscript accepted for publication in _Cognitive, Affective, and Behavioral Neuroscience_.
+4\. Smillie, L. D., **Bennett, D**., Tan, N. P., Sutcliffe, K., Fayn, K., Bode, S., & Wacker, J. (in press). Does openness/intellect predict sensitivity to the reward value of information? Manuscript accepted for publication in _Cognitive, Affective, and Behavioral Neuroscience_.
 
 5\. Zorowitz, S., **Bennett, D**., Choe, G., & Niv, Y. (2021). A recurring reproduction error in the administration of the Generalized Anxiety Disorder scale. _The Lancet Psychiatry, 8_(3), 180-181.
 
