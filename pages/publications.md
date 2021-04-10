@@ -3,7 +3,7 @@ layout: page
 title: Publications
 nav_order: 3
 permalink: /pages/publications/
-last_modified_date: 2020-04-06T00:00:00+0000
+last_modified_date: 2020-04-11T00:00:00+0000
 ---
 
 # List of publications
