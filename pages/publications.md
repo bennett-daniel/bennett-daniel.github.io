@@ -16,7 +16,7 @@ last_modified_date: 2020-04-13T00:00:00+0000
 
 [[pdf]](https://psyarxiv.com/ew58m/)
 
-2\. Zorowitz, S., Niv, Y., & **Bennett, D.** (under review). ttentive responding can induce spurious associations between task behavior and symptom measures. Preprint hosted at _PsyArXiv_.
+2\. Zorowitz, S., Niv, Y., & **Bennett, D.** (under review). Inattentive responding can induce spurious associations between task behavior and symptom measures. Preprint hosted at _PsyArXiv_.
 
 [[pdf]](https://psyarxiv.com/rynhk/) [[GitHub repo]](https://github.com/nivlab/sciops)
 
