@@ -3,7 +3,7 @@ layout: page
 title: My Research
 nav_order: 1
 permalink: /pages/research/
-last_modified_date: 2020-01-04T00:00:00+0000
+last_modified_date: 2020-04-14T00:00:00+0000
 ---
 
 # My research
@@ -15,15 +15,16 @@ In my research, I use experimental and computational methods to understand the p
 One primary thread of my postdoctoral work with Yael Niv at Princeton University was to build computational models of human mood. In this theoretical work, we focused on how working with concepts from reinforcement learning might help us to build a computational theory of human mood.
 
 Representative publication:
-- Bennett, D., Davidson, G., & Niv, Y. (under review). A model of mood as integrated advantage. Preprint hosted at _PsyArXiv_. [[pdf]](https://psyarxiv.com/dzsme/)
+- Bennett, D., Davidson, G., & Niv, Y. (in press). A model of mood as integrated advantage. Manuscript accepted for publication in *Psychological Review*. [[pdf]](https://psyarxiv.com/dzsme/)
 
 
 ## Mood, attention, and reinforcement learning
 
 In my empirical experimental work, I'm very interested in the question of how human mood states interact with cognitive processes like attention, learning, and decision making. For instance, how does being in a bad mood change the way we learn about the world around us? Does being in a good mood make us more likely to engage in risky behaviour? Do effects of this kind differ across people in a way that might explain why some people are prone to mood disorders?
 
-Representative publication:
+Representative publications:
 - Bennett, D., & Niv, Y. (2020). Opening Burton's clock: Psychiatric insights from computational cognitive models. Chapter in *The Cognitive Neurosciences* (6th edition; M. Gazzaniga, ed.). [[pdf]](https://psyarxiv.com/y2vzu/)
+- Bennett, D., Niv, Y. & Langdon, A. J. (under review). Value-free reinforcement learning: Policy optimization as a minimal model of operant behavior. Preprint hosted at _PsyArXiv_. [[pdf]](https://psyarxiv.com/ew58m/)
 
 ## Information-seeking behaviour
 
