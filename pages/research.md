@@ -24,7 +24,7 @@ In my empirical experimental work, I'm very interested in the question of how hu
 
 Representative publications:
 - Bennett, D., & Niv, Y. (2020). Opening Burton's clock: Psychiatric insights from computational cognitive models. Chapter in *The Cognitive Neurosciences* (6th edition; M. Gazzaniga, ed.). [[pdf]](https://psyarxiv.com/y2vzu/)
-- Bennett, D., Niv, Y. & Langdon, A. J. (in press). Value-free reinforcement learning: Policy optimization as a minimal model of operant behavior. Manuscript accepted for publication in _Current Opinion in Behavioral Sciences_.[[pdf]](https://psyarxiv.com/ew58m/)
+- Bennett, D., Niv, Y. & Langdon, A. J. (in press). Value-free reinforcement learning: Policy optimization as a minimal model of operant behavior. Manuscript accepted for publication in _Current Opinion in Behavioral Sciences_. [[pdf]](https://psyarxiv.com/ew58m/)
 
 ## Information-seeking behaviour
 
