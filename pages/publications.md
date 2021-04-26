@@ -3,7 +3,7 @@ layout: page
 title: Publications
 nav_order: 3
 permalink: /pages/publications/
-last_modified_date: 2020-04-13T00:00:00+0000
+last_modified_date: 2020-04-26T00:00:00+0000
 ---
 
 # List of publications
@@ -12,20 +12,20 @@ last_modified_date: 2020-04-13T00:00:00+0000
 
 {: .pt-4}
 
-1\. **Bennett, D.**, Niv, Y. & Langdon, A. J. (under review). Value-free reinforcement learning: Policy optimization as a minimal model of operant behavior. Preprint hosted at _PsyArXiv_.
-
-[[pdf]](https://psyarxiv.com/ew58m/)
-
-2\. Zorowitz, S., Niv, Y., & **Bennett, D.** (under review). Inattentive responding can induce spurious associations between task behavior and symptom measures. Preprint hosted at _PsyArXiv_.
+1\. Zorowitz, S., Niv, Y., & **Bennett, D.** (under review). Inattentive responding can induce spurious associations between task behavior and symptom measures. Preprint hosted at _PsyArXiv_.
 
 [[pdf]](https://psyarxiv.com/rynhk/) [[GitHub repo]](https://github.com/nivlab/sciops)
 
-3\. Goh, A. X.-A., **Bennett, D**., Bode, S., & Chong, T. T.-J. (under review). Neurocomputational mechanisms underlying the subjective value of information. Manuscript submitted for review.
+2\. Goh, A. X.-A., **Bennett, D**., Bode, S., & Chong, T. T.-J. (under review). Neurocomputational mechanisms underlying the subjective value of information. Manuscript submitted for review.
 
 ## Peer-reviewed journal papers and book chapters
 
 {: .fs-6 .fw-300 .pt-2}
 _2021 and in press_
+
+3\. **Bennett, D.**, Niv, Y. & Langdon, A. J. (in press). Value-free reinforcement learning: Policy optimization as a minimal model of operant behavior. Manuscript accepted for publication in _Current Opinion in Behavioral Sciences_.
+
+[[pdf]](https://psyarxiv.com/ew58m/)
 
 4\. **Bennett, D.**, Davidson, G., & Niv, Y. (in press). A model of mood as integrated advantage. Manuscript accepted for publication in _Psychological Review_.
 
