@@ -35,12 +35,12 @@ _2021 and in press_
 
 6\. Zorowitz, S., **Bennett, D**., Choe, G., & Niv, Y. (2021). A recurring reproduction error in the administration of the Generalized Anxiety Disorder scale. _The Lancet Psychiatry, 8_(3), 180-181.
 
-{: .fs-6 .fw-300 .pt-2}
-_2020_
-
-7\. **Bennett, D.**, Sutcliffe, K., Tan, N. P., Smillie, L. D., & Bode, S. (2020). Anxious and obsessive-compulsive traits are independently associated with valuation of non-instrumental information. Manuscript accepted for publication in _Journal of Experimental Psychology: General_.
+7\. **Bennett, D.**, Sutcliffe, K., Tan, N. P., Smillie, L. D., & Bode, S. (2020). Anxious and obsessive-compulsive traits are independently associated with valuation of non-instrumental information. _Journal of Experimental Psychology: General, 150_(4), 739-755.
 
 [[pdf]](https://www.biorxiv.org/content/biorxiv/early/2020/05/04/768168.full.pdf) [[OSF project]](https://osf.io/eg74d/)
+
+{: .fs-6 .fw-300 .pt-2}
+_2020_
 
 8\. **Bennett, D.**, & Niv, Y. (2020). Opening Burton's clock: Psychiatric insights from computational cognitive models. Chapter in *The Cognitive Neurosciences* (6th edition; M. Gazzaniga, ed.).
 
