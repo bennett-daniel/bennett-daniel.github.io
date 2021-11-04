@@ -3,7 +3,7 @@ layout: page
 title: Publications
 nav_order: 3
 permalink: /pages/publications/
-last_modified_date: 2020-04-26T00:00:00+0000
+last_modified_date: 2020-11-04T00:00:00+0000
 ---
 
 # List of publications
@@ -16,12 +16,12 @@ last_modified_date: 2020-04-26T00:00:00+0000
 
 [[pdf]](https://psyarxiv.com/rynhk/) [[GitHub repo]](https://github.com/nivlab/sciops)
 
-2\. Goh, A. X.-A., **Bennett, D**., Bode, S., & Chong, T. T.-J. (under review). Neurocomputational mechanisms underlying the subjective value of information. Manuscript submitted for review.
-
 ## Peer-reviewed journal papers and book chapters
 
 {: .fs-6 .fw-300 .pt-2}
 _2021 and in press_
+
+2\. Goh, A. X.-A., **Bennett, D**., Bode, S., & Chong, T. T.-J. (in press). Neurocomputational mechanisms underlying the subjective value of information. Manuscript accepted for publication in *Communications Biology*.
 
 3\. **Bennett, D.**, Niv, Y. & Langdon, A. J. (in press). Value-free reinforcement learning: Policy optimization as a minimal model of operant behavior. Manuscript accepted for publication in _Current Opinion in Behavioral Sciences_.
 
