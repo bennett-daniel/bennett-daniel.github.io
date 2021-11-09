@@ -13,7 +13,7 @@ last_modified_date: 2020-11-10T00:00:00+0000
 
 I'm a cognitive and affective scientist. I study mood, learning, and decision making, with a particular interest in how these processes go awry in psychiatric conditions like major depression and bipolar disorder.
 
-I'm currently a Research Fellow in the Department of Psychiatry at Monash University. Previously I was a postdoctoral researcher with [Yael Niv](https://nivlab.princeton.edu/) at Princeton University, and before that I completed a PhD at the University of Melbourne under the supervision of [Stefan Bode](https://findanexpert.unimelb.edu.au/profile/287239-stefan-bode) and [Carsten Murawski](http://bmmlab.webfactional.com/team/carsten/). In February 2022 I will be joining the [Monash School of Psychological Sciences](https://www.monash.edu/medicine/psych/home) as a Lecturer (roughly equivalent to an Assistant Professor in the USA).
+I'm currently a Research Fellow in the Department of Psychiatry at Monash University. Previously I was a postdoctoral researcher with [Yael Niv](https://nivlab.princeton.edu/) at Princeton University, and before that I completed a PhD at the University of Melbourne. In February 2022 I will be joining the faculty of the [Monash School of Psychological Sciences](https://www.monash.edu/medicine/psych/home) as a Lecturer.
 
 See the links in the sidebar for more information.
 
