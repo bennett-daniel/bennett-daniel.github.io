@@ -24,7 +24,7 @@ last_modified_date: 2022-02-14T00:00:00+0000
 
 [[pdf]](https://www.biorxiv.org/content/10.1101/2022.10.30.514444v1.full.pdf)
 
-## Peer-reviewed journal papers and book chapters
+## Peer-reviewed publications
 
 {: .fs-6 .fw-300 .pt-2}
 _2022_
@@ -41,6 +41,7 @@ _2022_
 
 [[link]](https://escholarship.org/uc/item/4p27t4cw)
 
+{: .fs-6 .fw-300 .pt-2}
 _2021_
 
 7\. **Bennett, D.**, Niv, Y. & Langdon, A. J. (2021). Value-free reinforcement learning: Policy optimization as a minimal model of operant behavior. _Current Opinion in Behavioral Sciences, 41_, 113-121.
