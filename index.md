@@ -25,6 +25,4 @@ Please see the links in the sidebar for more information.
 
 <img src="/assets/img/osf.png" width="20" height="20" style="margin-left: 1em; margin-right: 1em;"/> [Open Science Framework](https://osf.io/8jtxy/)
 
-<img src="/assets/img/twitter.png" width="20" height="20" style="margin-left: 1em; margin-right: 1em;"/> [Twitter](https://twitter.com/danielbbennett)
-
 <img src="/assets/img/mail.png" width="20" height="20" style="margin-left: 1em; margin-right: 1em;"/> [E-mail me](mailto:daniel.bennett@monash.edu)
