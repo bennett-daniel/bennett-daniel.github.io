@@ -16,11 +16,13 @@ last_modified_date: 2022-02-14T00:00:00+0000
 
 2\. **Bennett, D.**, Radulescu, A., Zorowitz, S., Felso, V., & Niv, Y. (under review). Affect-congruent attention drives changes in reward expectations. Preprint hosted at _PsyArXiv_. [[pdf]](https://psyarxiv.com/vu2cw)
 
-3\. Zorowitz, S., Niv, Y., & **Bennett, D.** (under review). Inattentive responding can induce spurious associations between task behavior and symptom measures. Preprint hosted at _PsyArXiv_. [[pdf]](https://psyarxiv.com/rynhk/) [[GitHub repo]](https://github.com/nivlab/sciops)
-
-4\. **Bennett, D.**, Nakamura, J., Vinnakota, C., Sokolenko, E., Nithianantharajah, J., van den Buuse, M., Jones, N. C., Sundram, S., & Hill, R. (under review). Mouse behaviour on the trial-unique non-matching-to-location (TUNL) touchscreen task reflects a mixture of distinct working memory codes and response biases. Preprint hosted at _bioRxiv_. [[pdf]](https://www.biorxiv.org/content/10.1101/2022.10.30.514444v1.full.pdf)
+3\. **Bennett, D.**, Nakamura, J., Vinnakota, C., Sokolenko, E., Nithianantharajah, J., van den Buuse, M., Jones, N. C., Sundram, S., & Hill, R. (under review). Mouse behaviour on the trial-unique non-matching-to-location (TUNL) touchscreen task reflects a mixture of distinct working memory codes and response biases. Preprint hosted at _bioRxiv_. [[pdf]](https://www.biorxiv.org/content/10.1101/2022.10.30.514444v1.full.pdf)
 
 ## Peer-reviewed publications
+
+{: .fs-6 .fw-300 .pt-2}
+_2023 and in press_
+4\. Zorowitz, S., Niv, Y., Solis, J. & **Bennett, D.** (in press). Inattentive responding can induce spurious associations between task behavior and symptom measures. Manuscript accepted for publication in _Nature Human Behaviour_. [[pdf]](https://psyarxiv.com/rynhk/) [[GitHub repo]](https://github.com/nivlab/sciops)
 
 {: .fs-6 .fw-300 .pt-2}
 _2022_
