@@ -2,7 +2,7 @@
 layout: home
 title: Home
 nav_exclude: true
-last_modified_date: 2023-01-20T00:00:00+0000
+last_modified_date: 2023-06-05T00:00:00+0000
 ---
 
 <div align="center" style="font-size:2vw">
@@ -11,7 +11,7 @@ last_modified_date: 2023-01-20T00:00:00+0000
 
 ![headshot](/assets/img/headshot.png){: style="float: right; margin-right: 1em; margin-top: 0.5em; margin-left: 2em; width:230px; border: 2px solid #555;"}
 
-I am a lecturer in the [School of Psychological Sciences](https://www.monash.edu/medicine/psych/home) at Monash University. My research tends to fall under the headings of cognitive psychology and affective science: I study the manifold interactions between emotion and cognition, with an emphasis on understanding the role of emotion in learning and decision making. I also conduct research into how these processes go awry in psychiatric conditions like major depression and bipolar disorder. Before joining Monash, I was a postdoctoral researcher with [Yael Niv](https://nivlab.princeton.edu/) at Princeton University, and prior to that I completed a PhD in Psychology with the [Decision Neuroscience Lab](https://dlab.unimelb.edu.au/) at the University of Melbourne.
+I am a lecturer in the [School of Psychological Sciences](https://www.monash.edu/medicine/psych/home) at Monash University. My research tends to fall under the headings of cognitive psychology and affective science: I study the manifold interactions between emotion and cognition, with an emphasis on understanding the role of emotion in learning and decision making. I also conduct research into how these processes affect decision-making behaviour in the context of gambling. Before joining Monash, I was a postdoctoral researcher with [Yael Niv](https://nivlab.princeton.edu/) at Princeton University, and prior to that I completed a PhD in Psychology with the [Decision Neuroscience Lab](https://dlab.unimelb.edu.au/) at the University of Melbourne.
 
 Please see the links in the sidebar for more information.
 
