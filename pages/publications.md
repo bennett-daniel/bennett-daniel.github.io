@@ -20,6 +20,7 @@ last_modified_date: 2023-06-05T00:00:00+0000
 
 {: .fs-6 .fw-300 .pt-2}
 _2023 and in press_
+
 3\. Zorowitz, S., Niv, Y., Solis, J. & **Bennett, D.** (in press). Inattentive responding can induce spurious associations between task behavior and symptom measures. Manuscript accepted for publication in _Nature Human Behaviour_. [[pdf]](https://psyarxiv.com/rynhk/) [[GitHub repo]](https://github.com/nivlab/sciops)
 
 4\. **Bennett, D.**, Nakamura, J., Vinnakota, C., Sokolenko, E., Nithianantharajah, J., van den Buuse, M., Jones, N. C., Sundram, S., & Hill, R. (in press). Mouse behaviour on the trial-unique non-matching-to-location (TUNL) touchscreen task reflects a mixture of distinct working memory codes and response biases. Manuscript accepted for publication in _Journal of Neuroscience_. [[pdf]](https://www.biorxiv.org/content/10.1101/2022.10.30.514444v1.full.pdf)
