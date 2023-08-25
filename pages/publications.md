@@ -3,7 +3,7 @@ layout: page
 title: Publications
 nav_order: 3
 permalink: /pages/publications/
-last_modified_date: 2023-06-05T00:00:00+0000
+last_modified_date: 2023-08-26T00:00:00+0000
 ---
 
 # List of publications
@@ -12,18 +12,18 @@ last_modified_date: 2023-06-05T00:00:00+0000
 
 {: .pt-4}
 
-1\. Forbes, L. & **Bennett, D.** (under review). The effect of reward prediction errors on subjective affect depends on outcome valence and decision context. Preprint hosted at _PsyArXiv_. [[pdf]](https://psyarxiv.com/v86bx)
-
-2\. **Bennett, D.**, Radulescu, A., Zorowitz, S., Felso, V., & Niv, Y. (under review). Affect-congruent attention drives changes in reward expectations. Preprint hosted at _PsyArXiv_. [[pdf]](https://psyarxiv.com/vu2cw)
+1\. **Bennett, D.**, Radulescu, A., Zorowitz, S., Felso, V., & Niv, Y. (under review). Affect-congruent attention drives changes in reward expectations. Preprint hosted at _PsyArXiv_. [[pdf]](https://psyarxiv.com/vu2cw)
 
 ## Peer-reviewed publications
 
 {: .fs-6 .fw-300 .pt-2}
 _2023 and in press_
 
+2\. Forbes, L. & **Bennett, D.** (in press). The effect of reward prediction errors on subjective affect depends on outcome valence and decision context. Manuscript accepted for publication in _Emotion_. [[pdf]](https://psyarxiv.com/v86bx)
+
 3\. Zorowitz, S., Niv, Y., Solis, J. & **Bennett, D.** (in press). Inattentive responding can induce spurious associations between task behavior and symptom measures. Manuscript accepted for publication in _Nature Human Behaviour_. [[pdf]](https://psyarxiv.com/rynhk/) [[GitHub repo]](https://github.com/nivlab/sciops)
 
-4\. **Bennett, D.**, Nakamura, J., Vinnakota, C., Sokolenko, E., Nithianantharajah, J., van den Buuse, M., Jones, N. C., Sundram, S., & Hill, R. (in press). Mouse behaviour on the trial-unique non-matching-to-location (TUNL) touchscreen task reflects a mixture of distinct working memory codes and response biases. Manuscript accepted for publication in _Journal of Neuroscience_. [[pdf]](https://www.biorxiv.org/content/10.1101/2022.10.30.514444v1.full.pdf)
+4\. **Bennett, D.**, Nakamura, J., Vinnakota, C., Sokolenko, E., Nithianantharajah, J., van den Buuse, M., Jones, N. C., Sundram, S., & Hill, R. (in press). Mouse behaviour on the trial-unique non-matching-to-location (TUNL) touchscreen task reflects a mixture of distinct working memory codes and response biases. _Journal of Neuroscience, 43_(31), 5693-5709. [[journal link]](https://www.jneurosci.org/content/43/31/5693.abstract)[[pdf]](https://www.biorxiv.org/content/10.1101/2022.10.30.514444v1.full.pdf)
 
 5\. Myles, D., **Bennett, D.**, Carter, A., Yücel, M., Albertella, L., de Lacy-Vawdon, C., & Livingstone, C. (in press). "Losses disguised as wins" in electronic gambling machines contribute to win oversetimation in a large online sample. Manuscript accepted for publication in _Addictive Behaviors Reports_.
 
